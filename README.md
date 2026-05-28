@@ -1,6 +1,6 @@
 # Apresentação
 
-O guia **e-Check (Guia de Recomendações para Interfaces de Consentimento Online)** é um instrumento estruturado e interativo focado no design ético e na análise de interfaces de consentimento. Baseado em evidências científicas de usabilidade e experiência do usuário, o guia visa orientar a criação de sistemas em conformidade com legislações de proteção de dados, como a **Lei Geral de Proteção de Dados (LGPD)** e o **General Data Protection Regulation (GDPR)**.
+O **e-Check (Guia de Recomendações para Interfaces de Consentimento Online)** é um instrumento estruturado e interativo focado no design ético e na análise de interfaces de consentimento. Baseado em evidências científicas de usabilidade e experiência do usuário, o guia visa orientar a criação de sistemas em conformidade com legislações de proteção de dados, como a **Lei Geral de Proteção de Dados (LGPD)** e o **General Data Protection Regulation (GDPR)**.
 
 O material contempla cinco diretrizes centrais:
 
