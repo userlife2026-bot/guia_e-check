@@ -4,11 +4,11 @@ O guia **e-Check (Guia de Recomendações para Interfaces de Consentimento Onlin
 
 O material contempla cinco diretrizes centrais:
 
-1. **Gestão da Transparência da Informação**
-2. **Planejamento do Esforço de Interação**
-3. **Promoção da Tomada de Decisão do Usuário**
-4. **Promoção do Controle do Usuário**
-5. **Modelagem da Percepção da Informação**
+1. **Gestão da transparência da informação**
+2. **Planejamento do esforço de interação**
+3. **Promoção da tomada de decisão do usuário**
+4. **Promoção do controle do usuário**
+5. **Modelagem da percepção da informação**
 
 Para cada diretriz, o guia sistematiza **boas práticas** que favorecem a autonomia do titular e **más práticas**, também conhecidas como **padrões obscuros (*dark patterns*)**, que manipulam ou subvertem a escolha livre e informada.
 
