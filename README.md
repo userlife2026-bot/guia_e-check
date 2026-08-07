@@ -10,7 +10,7 @@ O material contempla cinco diretrizes centrais:
 4. **Promoção do controle do usuário**
 5. **Modelagem da percepção da informação**
 
-Para cada diretriz, o guia sistematiza **boas práticas** que favorecem a autonomia do titular e **más práticas**, também conhecidas como **padrões obscuros (*dark patterns*)**, que manipulam ou subvertem a escolha livre e informada.
+Para cada diretriz, o guia sistematiza **boas práticas** que favorecem a autonomia do titular e **más práticas**, também conhecidas como **padrões manipulativos (*deceptive patterns*)**, que manipulam ou subvertem a escolha livre e informada.
 
 Direcionado a **pesquisadores, designers e desenvolvedores**, o guia fornece contextos, problemas, recomendações claras do que fazer ou evitar, além de exemplos práticos extraídos da literatura científica. O guia evidencia que cada diretriz é organizada em boas e más práticas, com explicação do problema, orientações práticas, exemplos e referências aos estudos analisados.
 
